@@ -1,16 +1,8 @@
-# Common junk files
-.DS_Store
-*.sw*
-
-# Private files and backups
 *.*~
-*.doc
-*.docx
-*.eml
+*.sw*
+.DS_Store
 
-# etc.
-drizzy-wap/
-polypore/
 *.ai
 *.psd
 *.xcf
+drizzy-wap/
